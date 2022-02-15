@@ -1,5 +1,8 @@
 https://www.youtube.com/watch?v=R86Jbu_ipdY&list=PL_HlKez9XCSNX5XakqCq_HEbzxa2RrrTH
 
+----------------
+very soon we will start new batch of python very soon.
+
 for php mvc
 ------------------
 import mysql.connector
